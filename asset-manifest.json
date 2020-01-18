@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/brosay-tabak-front-build/static/css/main.0307ed3d.chunk.css",
-    "main.js": "/brosay-tabak-front-build/static/js/main.bad7b954.chunk.js",
-    "main.js.map": "/brosay-tabak-front-build/static/js/main.bad7b954.chunk.js.map",
+    "main.js": "/brosay-tabak-front-build/static/js/main.38cf5990.chunk.js",
+    "main.js.map": "/brosay-tabak-front-build/static/js/main.38cf5990.chunk.js.map",
     "runtime-main.js": "/brosay-tabak-front-build/static/js/runtime-main.ac64d719.js",
     "runtime-main.js.map": "/brosay-tabak-front-build/static/js/runtime-main.ac64d719.js.map",
     "static/css/2.266626f9.chunk.css": "/brosay-tabak-front-build/static/css/2.266626f9.chunk.css",
     "static/js/2.665b3ecf.chunk.js": "/brosay-tabak-front-build/static/js/2.665b3ecf.chunk.js",
     "static/js/2.665b3ecf.chunk.js.map": "/brosay-tabak-front-build/static/js/2.665b3ecf.chunk.js.map",
     "index.html": "/brosay-tabak-front-build/index.html",
-    "precache-manifest.f9ee7eb952c71386a283c7f1dcb7b9a6.js": "/brosay-tabak-front-build/precache-manifest.f9ee7eb952c71386a283c7f1dcb7b9a6.js",
+    "precache-manifest.2c4b923a2ab2a112f2449a6ca9682518.js": "/brosay-tabak-front-build/precache-manifest.2c4b923a2ab2a112f2449a6ca9682518.js",
     "service-worker.js": "/brosay-tabak-front-build/service-worker.js",
     "static/css/2.266626f9.chunk.css.map": "/brosay-tabak-front-build/static/css/2.266626f9.chunk.css.map",
     "static/css/main.0307ed3d.chunk.css.map": "/brosay-tabak-front-build/static/css/main.0307ed3d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.266626f9.chunk.css",
     "static/js/2.665b3ecf.chunk.js",
     "static/css/main.0307ed3d.chunk.css",
-    "static/js/main.bad7b954.chunk.js"
+    "static/js/main.38cf5990.chunk.js"
   ]
 }

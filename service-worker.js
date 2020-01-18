@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brosay-tabak-front-build/precache-manifest.f9ee7eb952c71386a283c7f1dcb7b9a6.js"
+  "/brosay-tabak-front-build/precache-manifest.2c4b923a2ab2a112f2449a6ca9682518.js"
 );
 
 self.addEventListener('message', (event) => {
