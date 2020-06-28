@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "211fb98e316b5d3e0f8aa04f112edb5f",
+    "revision": "b8c87676d0bf6b85d2aade2e2666bf2d",
     "url": "/brosay-tabak-front-build/index.html"
   },
   {
-    "revision": "d9bb8d256900b826c9e9",
+    "revision": "6c5ecd639ee355a7161a",
     "url": "/brosay-tabak-front-build/static/css/2.266626f9.chunk.css"
   },
   {
-    "revision": "ee273e3de89c727a8021",
+    "revision": "6e2b5bf6d105e9fa0c52",
     "url": "/brosay-tabak-front-build/static/css/main.0307ed3d.chunk.css"
   },
   {
-    "revision": "d9bb8d256900b826c9e9",
-    "url": "/brosay-tabak-front-build/static/js/2.665b3ecf.chunk.js"
+    "revision": "6c5ecd639ee355a7161a",
+    "url": "/brosay-tabak-front-build/static/js/2.25cc717e.chunk.js"
   },
   {
-    "revision": "ee273e3de89c727a8021",
-    "url": "/brosay-tabak-front-build/static/js/main.bad7b954.chunk.js"
+    "revision": "6e2b5bf6d105e9fa0c52",
+    "url": "/brosay-tabak-front-build/static/js/main.ab179a44.chunk.js"
   },
   {
     "revision": "cc72d5b553d5f45e584d",
